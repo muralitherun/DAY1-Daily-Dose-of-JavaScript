@@ -2,6 +2,8 @@
 I've planned of practicing JavaScript on a regular basis. This is today's dose of JavaScript.
 
 
+day1.js:
+
 Tasks:
 
 
@@ -28,3 +30,11 @@ Tasks:
 11. Reassign the value stored in catSound to the string "meow".
 
 12. Console.log the variable petCat, then the string "now says", then the variable catSound.
+
+------------------------------------------------------------------------------------------
+
+operators.js
+
+[FIND TASKS INSIDE THE FILE AS COMMENTS]
+
+------------------------------------------------------------------------------------------
